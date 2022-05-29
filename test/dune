@@ -1,0 +1,3 @@
+(test
+ (name ome)
+ (libraries ome))
